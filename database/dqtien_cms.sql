@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `cms_db`
+-- Database: `dqtien_cms`
 --
-CREATE DATABASE IF NOT EXISTS `cms_db` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-USE `cms_db`;
+CREATE DATABASE IF NOT EXISTS `dqtien_cms` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+USE `dqtien_cms`;
 
 -- --------------------------------------------------------
 
